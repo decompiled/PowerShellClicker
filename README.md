@@ -1,0 +1,2 @@
+# PowerShellClicker
+ Fast Mouse Clicks
